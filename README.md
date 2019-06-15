@@ -9,5 +9,5 @@ El repositorio contiene:
 - Esquemas de protoboard
 <img src="proyecto final.png" width="600" align="center">
 
-- [Código Arduino] (https://github.com/pepeesp8266/EstacionMeteorologica/blob/master/EstacionMeteorologica.ino)
+- [Código Arduino](https://github.com/pepeesp8266/EstacionMeteorologica/blob/master/EstacionMeteorologica.ino)
 
