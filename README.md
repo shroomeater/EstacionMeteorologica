@@ -13,3 +13,9 @@ El repositorio contiene:
 
 - [Código Arduino](https://github.com/pepeesp8266/EstacionMeteorologica/blob/master/EstacionMeteorologica.ino)
 
+- Enlaces:
+
+[https://tecnopujol.wordpress.com/2019/06/19/estacion-meteorologica-con-node-mcu-y-placas-solares/amp/?__twitter_impression=true](https://tecnopujol.wordpress.com/2019/06/19/estacion-meteorologica-con-node-mcu-y-placas-solares/amp/?__twitter_impression=true)
+
+[https://sites.google.com/iesvaleix.com/estacion-meteorologica-v-aleix/](https://sites.google.com/iesvaleix.com/estacion-meteorologica-v-aleix/)
+
